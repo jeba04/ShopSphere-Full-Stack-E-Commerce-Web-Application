@@ -1,4 +1,5 @@
-# Shopsphere -Full Stack E-Commerce Web Application
+# ShopSphere Full Stack E-Commerce 
+
 This is a simple E-commerce application built with **Spring Boot**. The project comprises a front-end product catalog and a back-end database for managing products.
 
 ---
@@ -8,6 +9,35 @@ This is a simple E-commerce application built with **Spring Boot**. The project 
 - **Back-End Database**: A robust database to manage product inventory and categories.
 - **RESTful API**: A Spring Boot-based API to interact with the front-end and handle business logic.
   
+---
+
+## Screenshots
+
+### Product Catalog Website
+Below is a screenshot of the developed **E-commerce Website** showcasing the product catalog:
+
+![Developed ecommerce website](C:\Users\shaik\OneDrive\Desktop\My JAVA Project\ShopSphere-Full-Stack-E-Commerce-Web-Application\images)
+
+---
+
+### Back-End Database
+This screenshot shows the **Back-End Database** structure that supports the application, managing product data and user orders:
+
+![Developed backend database](C:\Users\shaik\OneDrive\Desktop\My JAVA Project\ShopSphere-Full-Stack-E-Commerce-Web-Application\images)
+
+---
+
+## API Documentation
+
+The **E-commerce SpringBoot** project provides a set of RESTful API endpoints to manage products and orders. Below is a table that outlines the key API endpoints:
+
+### API Endpoints Table
+Here is an image of the API table showing the various endpoints:
+
+![API Endpoints Table](C:\Users\shaik\OneDrive\Desktop\My JAVA Project\ShopSphere-Full-Stack-E-Commerce-Web-Application\images)
+
+The table above shows the various API methods, URL paths, request/response formats, and descriptions.
+
 ---
 
 ## Technologies Used
