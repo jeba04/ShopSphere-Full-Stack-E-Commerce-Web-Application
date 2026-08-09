@@ -16,14 +16,14 @@ This is a simple E-commerce application built with **Spring Boot**. The project 
 ### Product Catalog Website
 Below is a screenshot of the developed **E-commerce Website** showcasing the product catalog:
 
-![ShopSphere E-Commerce Website](images/ShopSphere-Full-Stack-E-Commerce-Website.png)
+![ShopSphere E-Commerce Website](Images/ShopSphere-Full-Stack-E-Commerce-Website.png)
 
 ---
 
 ### Back-End Database
 This screenshot shows the **Back-End Database** structure that supports the application, managing product data and user orders:
 
-![Back-End Database](images/Back-end-database.png)
+![Back-End Database](Images/Back-end-database.png)
 
 ---
 
@@ -34,7 +34,7 @@ The **E-commerce SpringBoot** project provides a set of RESTful API endpoints to
 ### API Endpoints Table
 Here is an image of the API table showing the various endpoints:
 
-![API Endpoints](images/APIs.png)
+![API Endpoints](Images/APIs.png)
 
 The table above shows the various API methods, URL paths, request/response formats, and descriptions.
 
