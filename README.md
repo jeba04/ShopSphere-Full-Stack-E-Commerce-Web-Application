@@ -23,7 +23,7 @@ Below is a screenshot of the developed **E-commerce Website** showcasing the pro
 ### Back-End Database
 This screenshot shows the **Back-End Database** structure that supports the application, managing product data and user orders:
 
-![Backend Database](images/Back-end-database.png)
+![Back-End Database](images/Back-end-database.png)
 
 ---
 
@@ -34,7 +34,7 @@ The **E-commerce SpringBoot** project provides a set of RESTful API endpoints to
 ### API Endpoints Table
 Here is an image of the API table showing the various endpoints:
 
-![API Documentation](images/APIs.png)
+![API Endpoints](images/APIs.png)
 
 The table above shows the various API methods, URL paths, request/response formats, and descriptions.
 
